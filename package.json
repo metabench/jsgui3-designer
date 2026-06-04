@@ -1,0 +1,18 @@
+{
+    "name": "jsgui3-designer",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "James Vickers",
+    "license": "ISC",
+    "dependencies": {
+        "jsgui3-html": "^0.0.187",
+        "jsgui3-client": "^0.0.129",
+        "jsgui3-server": "^0.0.152",
+        "lang-tools": "^0.0.45"
+    }
+}
